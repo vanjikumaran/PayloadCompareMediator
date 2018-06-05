@@ -29,6 +29,12 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.xmlunit</groupId>
+            <artifactId>xmlunit-core</artifactId>
+            <version>2.6.0</version>
+        </dependency>
+
     </dependencies>
     <properties>
         <axis2.version>1.6.1-wso2v23</axis2.version>
