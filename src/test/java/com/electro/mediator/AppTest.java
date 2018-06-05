@@ -1,4 +1,4 @@
-package com.wso2.mediator;
+package com.electro.mediator;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

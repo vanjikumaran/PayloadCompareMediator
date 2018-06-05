@@ -1,4 +1,4 @@
-package com.wso2.mediator;
+package com.electro.mediator;
 
 import org.apache.axiom.om.OMAttribute;
 import org.apache.axiom.om.OMElement;
